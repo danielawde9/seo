@@ -358,4 +358,92 @@ Make sure the <title> tag on each page of the site is unique and descriptive. If
 14. URL redirect checks
 Use a server header checker such as Redirect Check or RedirectChecker.org
 
-15. 
+15. Internal linking checks
+
+16. Avoidance of unnecessary subdomains
+
+The engines may not apply the entirety of a domain’s trust and link authority weight to subdomains. This is largely due to the fact that a subdomain could be under the control of a different party, and therefore in the search engine’s eyes it needs to be separately evaluated. In the great majority of cases, content that gets placed within its own subdomain can easily go in a subfolder, such as site.com/content, as opposed to the subdomain content.site.com.
+
+17. External linking
+
+Check the inbound links to the site by performing a backlink analysis. 
+
+- https://smart.linkresearchtools.com/new/
+- https://moz.com/link-explorer
+- https://majestic.com/
+- https://ahrefs.com/site-explorer
+
+Lastly, check how the backlink profile for the site compares to the backlink profiles of its major competitors. Make sure that there are enough external links to your site, and that there are enough high-quality links in the mix
+
+18. Image alt attributes
+
+19. Code quality
+
+20. Importance of Keyword Reviews
+
+- Keyword Research
+- Site architecture
+- Keyword mapping
+- Site reView 
+
+21. Keyword Cannibalization (BAD THING)
+
+Keyword cannibalization typically starts when a website’s information architecture calls for the targeting of a single term or phrase on multiple pages of the site. This is often done unintentionally, but it can result in several or even dozens of pages that have the same keyword target in the title and header tags. Figure 4-4 shows the problem
+
+![](md-img/2021-03-22-14-01-39.png)
+
+to one particular keyword (in the example in Figure 4-4 the keyword is snowboards). For clarity’s sake, Google doesn’t interpret this as meaning that your site as a whole is more relevant to snowboards or should rank higher than the
+competition. Instead, it forces Google to choose among the many versions of the page and pick the one it feels best fits the query. When this happens, you lose out on a number of rank-boosting features:
+
+- Internal anchor text: 
+because you’re pointing to so many different pages with the same subject, you
+can’t concentrate the value and weight of internal, thematically relevant anchor
+text on one target
+
+- External Link
+four sites link to one of your pages on snowboards, three sites link to another of
+your snowboard pages, and six sites link to yet another snowboard page, you’ve
+split up your external link value among three topically similar pages, rather than
+consolidating it into one
+
+- Content quality
+After three or four pages about the same primary topic, the value of your content
+is going to suffer. You want the best possible single page to attract links and referrals, not a dozen bland, repetitive pages.
+
+- Conversion rate
+If one page is converting better than the others, it is a waste to have multiple lower-converting versions targeting the same traffic. If you want to do conversion If one page is converting better than the others, it is a waste to have multiple lower-converting versions targeting the same traffic. If you want to do conversion
+
+https://www.optimizely.com/
+
+22. Determining Top Competitors
+
+Are their websites fully indexed by Google and Bing? In other words, are all their
+web pages, including product pages, making it into the search engines’ databases?
+You can go to each search engine and type in site:<theirdomain.com> to find out. A
+competitor with only a small percentage of its site indexed in Google probably has
+a site that is unfriendly to search spiders.
+
+- Do their product and category pages have keyword-rich page titles (<title> tags) that are unique to each page? You can easily review an entire site’s page titles within Google or Bing by searching for site:<www.yourcompetitor.com>. Incidentally, this type of search can sometimes yield confidential information. A lot of webmasters do not realize that Google has discovered and indexed commercially sensitive content buried deep in their sites. For example, a Google search for business plan confidential filetype:doc can yield a lot of real business plans among the sample templates.
+- Do their product and category pages have reasonably high PageRank scores?
+- Is anchor text across the site, particularly in the navigation, descriptive but not keyword-stuffed?
+- Are the websites getting penalized? You can overdo SEO. Too much keyword repetition or too many suspiciously well-optimized text links can yield a penalty for overoptimization. Sites can also be penalized for extensive amounts of duplicate content, for lack of high-quality content (referred to as “thin” content), and for
+
+- What keywords are they targeting?
+- Who’s linking to their home page, or to their top-selling product pages and category pages
+- If it is a database-driven site, what technology workarounds are they using to get search engine spiders such as Googlebot to cope with the site being dynamic?
+- What effect will their future SEO initiatives have on their site traffic?
+
+
+https://www.alexa.com/siteinfo/compete.com
+https://www.quantcast.com/
+https://www.searchmetrics.com/
+https://www.semrush.com/
+
+23. Benchmark current site SEO
+
+https://www.authoritylabs.com/
+
+24. Customers Who Have Had a Positive Experienc
+
+25. Followers, Friends, and Fans
+
