@@ -447,3 +447,180 @@ https://www.authoritylabs.com/
 
 25. Followers, Friends, and Fans
 
+
+# keyword research
+
+
+With keyword research, you can predict shifts in demand, respond to changing market conditions, and produce the products, services, and content that web searchers are already actively seeking. In the history of marketing, there has never been such a low barrier to entry in understanding the motivations of consumers in virtually every niche
+
+
+![](md-img/2021-03-22-15-38-48.png)
+
+## Tools
+
+- Common usage and phrase combinations
+Using a search with the * (asterisk) character can give you a good idea of what terms/ phrases commonly precede or follow a given term/phrase. For example, using * ringtones can show you phrases that are commonly associated with the term ringtones, as shown
+
+- Similar WEb
+- Google AdWords Keyword Planner and Traffic Estimator
+- Google Trends
+- Bing Keyword Research
+- KeywordDiscovery
+- Experian Hitwise
+- comScore Search Planner
+- SEMrush
+- Searchmetrics
+- Ubersuggest.
+- Visuwords.
+
+
+# Developing an SEO-Friendly Website
+
+- Making Your Site Accessible to Search Engines
+- Spiderable Link Structures > XML Sitemaps
+- Creating an Optimal Information Architecture
+- Site Architecture Design Principles
+
+![](md-img/2021-03-23-15-25-13.png)
+
+1. List all of the requisite content pages (blog posts, articles, product detail pages,
+2. Create top-level navigation that can comfortably hold all of the unique types  of detailed content for the site.
+3. Reverse the traditional top-down process by starting with the detailed content and working your way up to an organizational structure capable of holding each page.
+4. Once you understand the bottom, fill in the middle. Build out a structure for subnavigation to sensibly connect top-level pages with detailed content. In small sites, there may be no need for this level, whereas in larger sites, two or even three levels of subnavigation may be required.
+5. Include secondary pages such as copyright, contact information, and other nonessentials.
+6. Build a visual hierarchy that shows (to at least the last level of subnavigation) each page on the site.
+
+![](md-img/2021-03-23-15-24-36.png)
+
+**all content should be accessible through a maximum of four clicks from the home page and/or sitemap page**
+
+
+Flat sites aren’t just easier for search engines to crawl; they are also simpler for users, as they limit the number of page visits the user requires to reach his destination. This reduces the abandonment rate and encourages repeat visits. 
+When creating flat sites, be careful to not overload pages with links either. Pages that have 200 links on them are not passing much PageRank to any of those pages. While flat site architectures are desirable, you should not force an architecture to be overly flat if it is not otherwise logical to do so.
+The issue of the number of links per page relates directly to another rule for site architects:
+avoid excessive pagination wherever possible. Pagination (see Figure 6-11), the practice of creating a list of elements on pages separated solely by numbers (e.g., some ecommerce sites use pagination for product catalogs that have more products than they wish to show on a single page), is problematic for many reasons.
+First, pagination provides virtually no new topical relevance, as the pages are each largely about the same topic. Second, content that moves into different pagination can potentially create duplicate content problems or be seen as poor-quality or “thin” content.
+Last, pagination can create spider traps and hundreds or thousands of extraneous, low-quality pages that can be detrimental to search visibility.
+
+Use rel="next" and rel="prev"
+
+
+- Search-Friendly Site Navigation
+
+1. Implement a text-link-based navigational structure
+2. Beware of “spider traps” infinite loop
+3. Watch out for session IDs and cookies
+4. Be mindful of server, hosting, and IP issues
+
+- problematic SEO
+
+1. Search and web forms
+2. Java, images, audio, and video. Flash files, Java embeds, audio, and video
+3. AJAX and JavaScript.
+4. Frames.
+
+
+- Root Domains, Subdomains, and Microsites
+
+![](md-img/2021-03-23-15-45-46.png)
+
+### When to Use a Subfolder
+
+If a subfolder will work, it is the best choice 99.9% of the time. Keeping content on a single root domain and single subdomain
+
+
+Although subdomains are a popular choice for hosting content, they are generally not
+recommended if SEO is a primary concern
+
+### When to Use a Subdomain
+If your marketing team decides to promote a URL that is completely unique in content
+or purpose and would like to use a catchy subdomain to do it, using a subdomain can
+be practical. Google Maps is an example
+
+### When to Use a Separate Root Domain
+If you have a single, primary site that has earned links, built content, and attracted brand attention and awareness, it is very rarely advisable to place any new content on a completely separate domain.
+
+### Mircrosite
+You should never implement a microsite that acts as a doorway page to your main site, or that has substantially the same content as your main site. Consider a microsite only f you are willing to invest the time and effort to put rich original content on it, and to promote it as an independent site.
+
+Such a site may gain more links by being separated from the main commercial site. A
+microsite may have the added benefit of bypassing some of the legal and PR department hurdles and internal political battles.
+
+
+## Page Ranking
+
+How links can benefit your whole site
+
+![](md-img/2021-03-23-15-50-46.png)
+
+How direct links to your domain are better
+
+![](md-img/2021-03-23-15-50-58.png)
+
+## Optimizing Domains
+
+- Brainstorm five top keywords
+- Make the domain unique
+- Make it easy to type
+- Make it easy to remember
+- Keep the name as short as possible
+- Create and fulfill expectations
+
+When someone hears about your domain name for the first time, he should be
+able to instantly and accurately guess the type of content he might find there.
+That’s why we love domain names such as NYTimes.com, CareerBuilder.com,
+
+- Avoid trademark infringement
+- Set yourself apart with a brand
+- Reject hyphens and numbers
+
+### Picking the Right URLs
+
+- Describe your content
+- Keep it short
+- Static is the way 
+- Descriptive text is better than numbers
+- Keywords never hurt
+- Fewer folders
+- Hyphens separate best
+- Don’t be case-sensitive
+
+## Mobile Friendliness
+
+## Keyword Targeting
+
+## HTML <title> Tags
+
+- Place your keywords at the beginning of the <title> tag
+- Limit length to 50 characters (including spaces)
+- Incorporate keyword phrases
+- Target longer phrases if they are relevant
+- Use a divider
+- Focus on click-through and conversion rates
+
+- Target searcher intent
+When writing titles for web pages, keep in mind the search terms your audience
+employed to reach your site. If the intent is browsing or research-based, a more
+descriptive <title> tag is appropriate. If you’re reasonably sure the intent is a purchase, download, or other action, make it clear in your title that this function can be performed at your site. Here is an example from http://www.bestbuy.com/site/
+video-games/playstation-4-ps4/pcmcat295700050012.c?id=pcmcat295700050012. The
+<title> tag of that page is “PS4: PlayStation 4 Games & Consoles - Best Buy.” The
+<title> tag here makes it clear that you can buy PS4 games and consoles at Best
+Buy.
+
+- Communicate with human readers
+- Be consistent
+
+##  Meta Description Tags
+
+## Heading Tags
+
+Many publishers assume that they have to use an <h1> tag on every page. What matters
+most, though, is the highest-level heading tag you use on a page, and its placement.
+If you have a page that uses an <h3> heading at the very top, and any other heading tags further down on the page are <h3> or lower level, then that first <h3> tag will carry just as much weight as if it were an <h1>.
+
+Again, what matters most is the semantic markup of the page, and the first heading
+tag presumably is intended to be a label for the entire page (so it plays a complementary
+role to the <title> tag), and you should treat it as such. Other heading tags on the
+page should be used to label subsections of the content
+
+307
